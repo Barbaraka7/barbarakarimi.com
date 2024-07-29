@@ -13,8 +13,8 @@ export default function Home() {
         </SubHeading>
 
         <Heading dark className="text-center font-extrabold">
-          <SplitText text="Marieflor" />
-          <SplitText text="Bawanan" />
+          <SplitText text="Barbara" />
+          <SplitText text="Karimi" />
         </Heading>
 
         <p className="text-center md:whitespace-pre-line">

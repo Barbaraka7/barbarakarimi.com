@@ -1254,11 +1254,11 @@ function Contact() {
                         ]
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx(Clipboard, {
-                        text: "marie.bawanan@gmail.com",
+                        text: "barbarakarimi0077@gmail.com",
                         children: /*#__PURE__*/ jsx_runtime_.jsx(Heading, {
                             dark: true,
                             size: "xs",
-                            children: "marie.bawanan@gmail.com"
+                            children: "barbarakarimi0077@gmail.com"
                         })
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
@@ -1317,10 +1317,10 @@ function Home() {
                         className: "text-center font-extrabold",
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx(SplitText, {
-                                text: "Marieflor"
+                                text: "Barbara"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx(SplitText, {
-                                text: "Bawanan"
+                                text: "Karimi"
                             })
                         ]
                     }),
