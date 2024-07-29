@@ -1117,24 +1117,24 @@ function About() {
                         size: "sm",
                         dark: true,
                         className: "font-extrabold",
-                        children: "a frontend developer with affinity for design, intuitive user experience and pixel-perfect user interfaces"
+                        children: "a ui/ux designer with affinity for design, intuitive user experience and pixel-perfect user interfaces"
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                         className: "flex flex-col space-y-4 leading-relaxed md:flex-row md:space-x-12 md:space-y-0",
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 className: "w-full whitespace-pre-line md:w-1/2",
-                                children: `I am a frontend-focused software engineer with  6+ years of professional development experience, holding a degree of BS Computer Science from the University of the Philippines.
-            \nI have been employed by leading tech companies and emerging amazing startup companies throughout my career thus far.`
+                                children: `With a degree in Graphic Design and ux/ui design and several years of experience working at Advertising company and leading technology companies, I've honed a human-centered design approach that puts the user at the forefront of every project. I excel at conducting user research, defining product requirements, ideating creative solutions, and designing high-fidelity prototypes that seamlessly bridge the gap between form and function.
+Throughout my career, I've had the opportunity to collaborate cross-functionally with engineers, product managers, and stakeholders to deliver innovative digital products and services. Whether working within an agile framework or applying design thinking methodologies, I'm adept at navigating complex challenges, balancing business objectives with user needs, and driving successful outcomes.With a degree in Graphic Design and ux/ui design and several years of experience working at Advertising company and leading technology companies, I've honed a human-centered design approach that puts the user at the forefront of every project. I excel at conducting user research, defining product requirements, ideating creative solutions, and designing high-fidelity prototypes that seamlessly bridge the gap between form and function. Throughout my career, I've had the opportunity to collaborate cross-functionally with engineers, product managers, and stakeholders to deliver innovative digital products and services. Whether working within an agile framework or applying design thinking methodologies, I'm adept at navigating complex challenges, balancing business objectives with user needs, and driving successful outcomes.`
                             }),
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                 className: "w-full md:w-1/2",
                                 children: [
-                                    "Currently, I am a Senior Software Engineer,",
+                                    "Currently, I am a UI/UX designer,",
                                     " ",
                                     /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                         className: "font-bold",
-                                        children: "focusing on the frontend"
+                                        children: "focusing on the UI/UX"
                                     }),
                                     ". On a daily basis, I work with ",
                                     /*#__PURE__*/ jsx_runtime_.jsx(MobileTechList, {}),
@@ -1266,7 +1266,7 @@ function Contact() {
                             "Alternatively, you can also send me a message on",
                             /*#__PURE__*/ jsx_runtime_.jsx(Badge, {
                                 icon: /*#__PURE__*/ jsx_runtime_.jsx(si_.SiLinkedin, {}),
-                                onClick: ()=>openInNewTab("https://linkedin.com/in/maribwnn"),
+                                onClick: ()=>openInNewTab("https://linkedin.com/in/barbara-karimi7713"),
                                 className: "ml-1",
                                 children: "Linkedin"
                             })
@@ -1326,9 +1326,9 @@ function Home() {
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("p", {
                         className: "text-center md:whitespace-pre-line",
-                        children: `I am a frontend developer who loves to work on
-                the web. I am passionate about building simple
-                and elegant solutions to complex problems.`
+                        children: `I am a UI/UX designer who loves to work in
+                the figma. I am passionate about building simple
+                and elegant pages.`
                     })
                 ]
             }),
