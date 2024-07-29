@@ -838,7 +838,7 @@ function SiteTitle({ isHome  }) {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx("span", {
                 className: "w-[105px] md:w-[120px] md:group-hover:hidden",
-                children: "marieflor.dev"
+                children: "barbarakarimi.com"
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                 className: "hidden w-[140px] space-x-4 text-white md:group-hover:flex",
