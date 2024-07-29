@@ -30,7 +30,7 @@ export default function Contact() {
 
         <Clipboard text="marie.bawanan@gmail.com">
           <Heading dark size="xs">
-            marie.bawanan@gmail.com
+            barbarakarimi0077@gmail.com
           </Heading>
         </Clipboard>
 
@@ -38,7 +38,7 @@ export default function Contact() {
           Alternatively, you can also send me a message on
           <Badge
             icon={<SiLinkedin />}
-            onClick={() => openInNewTab("https://linkedin.com/in/maribwnn")}
+            onClick={() => openInNewTab("https://linkedin.com/in/barbara-karimi7713")}
             className="ml-1"
           >
             Linkedin

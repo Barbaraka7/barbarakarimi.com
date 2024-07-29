@@ -26,7 +26,7 @@ export default function About() {
         </SubHeading>
 
         <Heading size="sm" dark className="font-extrabold">
-          a frontend developer with affinity for design, intuitive user
+          a ui/ux designer with affinity for design, intuitive user
           experience and pixel-perfect user interfaces
         </Heading>
 
@@ -37,8 +37,8 @@ export default function About() {
           </p>
 
           <div className="w-full md:w-1/2">
-            Currently, I am a Senior Software Engineer,{" "}
-            <span className="font-bold">focusing on the frontend</span>. On a
+            Currently, I am a UI/UX designer,{" "}
+            <span className="font-bold">focusing on the UI/UX</span>. On a
             daily basis, I work with <MobileTechList />
             <TechList /> among others, in building and maintaining web
             applications and design systems —
