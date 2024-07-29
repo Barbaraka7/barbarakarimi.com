@@ -49,7 +49,7 @@ function App({ Component , pageProps  }) {
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "description",
-                        content: "Barbara Karimi is a ux/ux designer."
+                        content: "Barbara Karimi is a ui/ux designer who loves to work in the figma."
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "theme-color",
