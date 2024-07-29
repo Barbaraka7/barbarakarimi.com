@@ -45,11 +45,11 @@ function App({ Component , pageProps  }) {
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "author",
-                        content: "Marieflor Bawanan"
+                        content: "Barbara Karimi"
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "description",
-                        content: "Marieflor Bawanan is a frontend developer who loves to work on the web."
+                        content: "Barbara Karimi is a ux/ux designer."
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "theme-color",
